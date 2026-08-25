@@ -1,0 +1,68 @@
+# Sandeep Bazar
+
+Engineering leader working across platform infrastructure and applied AI. Senior Development
+Manager at IBM Storage Fusion, where I lead the virtualization, multicluster and AI
+solutioning squads.
+
+## About
+
+I have spent fourteen years at IBM India Systems and Development Lab in Pune building
+hyper-converged infrastructure, software-defined storage and the Kubernetes platform
+underneath them, along with the teams that ship it.
+
+Today I run three squads covering virtualization, multicluster and AI solutioning. The team
+builds the in-product AI assistant for Fusion HCI on MCP and LLMs, plus the MCP servers and
+agent skills behind it. Before this I was a founding member and lead of IBM's Modern Data
+Protection team in Pune, now more than 100 engineers, and served as the Asia-Pacific L2
+escalation engineer for IBM Storage Scale on a 24/7 follow-the-sun rota.
+
+I am also an Executive PhD candidate in Operations Management at IIM Udaipur, researching
+artificial intelligence and technology management.
+
+## Projects
+
+* **[ocm-mcp-server](https://github.com/sandeepbazar/ocm-mcp-server)**: personal side project.
+  Puts policy checks, approval and audit between an AI agent and a Kubernetes fleet through an
+  Open Cluster Management hub, so the agent never holds a kubeconfig.
+  [Docs](https://sandeepbazar.github.io/ocm-mcp-server/)
+* **[ibm-fusion-mcp-server](https://github.com/sandeepbazar/ibm-fusion-mcp-server)**: maintainer
+  of a fork of `containers/kubernetes-mcp-server`, extended with IBM Fusion tools.
+* **[ai-roadmap-365](https://github.com/sandeepbazar/ai-roadmap-365)**: nine-course open-source
+  AI curriculum, from computing fundamentals through designing, evaluating, securing and
+  deploying production AI systems. 141 of 365 lessons published, in progress.
+* **[blogs](https://github.com/sandeepbazar/blogs)**: long-form writing on IBM Fusion,
+  Kubernetes, MCP and agentic operations. [Read them](https://sandeepbazar.github.io/blogs/)
+* **[About](https://github.com/sandeepbazar/About)**: personal site. One hand-written HTML file,
+  no framework, no build step, no tracker.
+
+## Expertise
+
+* **Platform engineering**: Kubernetes, multicluster and fleet operations, hyper-converged
+  infrastructure
+* **Storage and data resilience**: software-defined storage, converged storage appliances,
+  backup and recovery at enterprise scale
+* **Applied and agentic AI**: judgment about where an agent earns its place, how it reaches
+  production systems under least privilege, approval before writes and a full audit trail
+* **Observability**: led the architecture of a platform observability framework, built in Go on
+  Prometheus, Loki and Elasticsearch
+* **Identity and authentication**: Active Directory, LDAP, NIS, AD with RFC2307, OpenStack
+  Keystone
+* **Engineering leadership**: building squads from the first hire through technical direction to
+  first production customer deployment
+
+## Selected work
+
+* Six granted US patents in storage and systems
+* Two IBM Redbooks: *IBM Spectrum Scale Security* (REDP-5426) and unified file and object
+  (REDP-5113)
+* One IEEE paper, 2012
+* Talks at OpenStack Summit Tokyo 2015, IBM Storage Strategy Days and IBM user-group sessions
+
+## Connect
+
+* Site: [sandeepbazar.github.io/About](https://sandeepbazar.github.io/About/)
+* LinkedIn: [in/sandeepbazar](https://www.linkedin.com/in/sandeepbazar/)
+* YouTube: [Tech Horizon Hub](https://www.youtube.com/@techhorizonhub)
+* Email: sandeepbazar@gmail.com
+
+Outside work I run long. Longest single-stage event so far: 300 km.
