@@ -21,15 +21,16 @@ artificial intelligence and technology management.
 
 ## Projects
 
-* **[ocm-mcp-server](https://github.comhttps://ocm-mcp-server.github.io/ocm-mcp-server)**: personal side project.
+* **[ocm-mcp-server](https://github.com/ocm-mcp-server/ocm-mcp-server)**: personal side project.
   Puts policy checks, approval and audit between an AI agent and a Kubernetes fleet through an
   Open Cluster Management hub, so the agent never holds a kubeconfig.
   [Docs](https://ocm-mcp-server.github.io/)
 * **[ibm-fusion-mcp-server](https://github.com/sandeepbazar/ibm-fusion-mcp-server)**: maintainer
   of a fork of `containers/kubernetes-mcp-server`, extended with IBM Fusion tools.
-* **[ai-roadmap-365](https://github.comhttps://ai-roadmap-365.github.io/ai-roadmap-365.github.io)**: nine-course open-source
+* **[ai-roadmap-365](https://github.com/ai-roadmap-365/ai-roadmap-365.github.io)**: nine-course open-source
   AI curriculum, from computing fundamentals through designing, evaluating, securing and
-  deploying production AI systems. 141 of 365 lessons published, in progress.
+  deploying production AI systems. 154 of 365 lessons published, in progress.
+  [Read the course](https://ai-roadmap-365.github.io/)
 * **[blogs](https://github.com/sandeepbazar/blogs)**: long-form writing on IBM Fusion,
   Kubernetes, MCP and agentic operations. [Read them](https://sandeepbazar.github.io/blogs/)
 * **[About](https://github.com/sandeepbazar/About)**: personal site. One hand-written HTML file,
