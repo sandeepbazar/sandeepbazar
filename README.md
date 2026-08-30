@@ -1,4 +1,4 @@
-# Sandeep Bazar
+# [Sandeep Bazar](https://www.linkedin.com/in/sandeepbazar/)
 
 Engineering leader working across platform infrastructure and applied AI. Senior Development
 Manager at IBM Storage Fusion, where I lead the virtualization, multicluster and AI
