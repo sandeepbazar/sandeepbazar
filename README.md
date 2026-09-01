@@ -10,11 +10,7 @@ I have spent fourteen years at IBM India Systems and Development Lab building
 hyper-converged infrastructure, software-defined storage and the Kubernetes platform
 underneath them, along with the teams that ship it.
 
-Today I run three squads covering virtualization, multicluster and AI solutioning. The team
-builds the in-product AI assistant for Fusion HCI on MCP and LLMs, plus the MCP servers and
-agent skills behind it. Before this I was a founding member and lead of IBM's Modern Data
-Protection team, now more than 100 engineers, and served as the Asia-Pacific L2
-escalation engineer for IBM Storage Scale on a 24/7 follow-the-sun rota.
+Today I lead various aread covering virtualization, multicluster and AI solutioning. 
 
 I am also an Executive PhD candidate in Operations Management at IIM Udaipur, researching
 artificial intelligence and technology management.
