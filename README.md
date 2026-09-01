@@ -1,16 +1,14 @@
 # [Sandeep Bazar](https://www.linkedin.com/in/sandeepbazar/)
 
-Engineering leader working across platform infrastructure and applied AI. Senior Development
-Manager at IBM Storage Fusion, where I lead the virtualization, multicluster and AI
-solutioning squads.
+Engineering leader working across platform infrastructure and applied AI. 
 
 ## About
 
-I have spent fourteen years at IBM India Systems and Development Lab building
+I have spent fourteen years at IBM India Systems and Development Lab, building
 hyper-converged infrastructure, software-defined storage and the Kubernetes platform
 underneath them, along with the teams that ship it.
 
-Today I lead various aread covering virtualization, multicluster and AI solutioning. 
+Today, I lead various areas covering Virtualization, Multicluster and AI solutioning. 
 
 I am also an Executive PhD candidate in Operations Management at IIM Udaipur, researching
 artificial intelligence and technology management.
