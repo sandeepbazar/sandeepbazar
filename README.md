@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://sandeepbazar.github.io/assets/hero/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://sandeepbazar.github.io/assets/hero/hero-light.svg">
+    <img src="https://sandeepbazar.github.io/assets/hero/hero-light.svg" alt="Sandeep Bazar: platform infrastructure and applied AI. Three open-source projects, and the numbers behind fourteen years at IBM." width="880">
+  </picture>
+</p>
+
 # [Sandeep Bazar](https://www.linkedin.com/in/sandeepbazar/)
 
 Engineering leader working across platform infrastructure and applied AI. 
