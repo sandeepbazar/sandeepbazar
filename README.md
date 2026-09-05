@@ -15,6 +15,14 @@ artificial intelligence and technology management.
 
 ## Projects
 
+* **[lazy-senior-dev](https://github.com/lazy-senior-dev)**: the senior engineers your AI agent
+  can be. Three persona plugins that review the change an agent is about to write and refuse the
+  write until it is right: [grumpy-reviewer](https://github.com/lazy-senior-dev/grumpy-reviewer)
+  reviews the diff, [paranoid-sre](https://github.com/lazy-senior-dev/paranoid-sre) reviews the
+  deploy, and [tenured](https://github.com/lazy-senior-dev/tenured) reviews it against the
+  repository's own history. One ruleset renders to fourteen agents, an MCP server and a GitHub
+  Action, and every number comes from a benchmark you can rerun.
+  [The cast](https://lazy-senior-dev.github.io/)
 * **[ocm-mcp-server](https://github.com/ocm-mcp-server/ocm-mcp-server)**: personal side project.
   Puts policy checks, approval and audit between an AI agent and a Kubernetes fleet through an
   Open Cluster Management hub, so the agent never holds a kubeconfig.
